@@ -1,2 +1,4 @@
-编程语言：python
-12岁 小学生
+### My biography
+
+## My life
+birthday  2010.09.29
